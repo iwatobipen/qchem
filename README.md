@@ -30,3 +30,4 @@ $geometric-optimize --psi4 input.in
 - openbabel
 - pybel (python wrapper of openbabel)
 - geomeTRIC
+- jinja2
